@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Demo1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/evcolor
+Data file = C:\xampp\htdocs\evcolor\wp-content\plugins\preyantechnosys-fixter-extras/demo-content/demo.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "arr-01" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "image" (Media)
+[ERROR] Failed to import "spray-gun" (Media)
+
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+ Slider processed

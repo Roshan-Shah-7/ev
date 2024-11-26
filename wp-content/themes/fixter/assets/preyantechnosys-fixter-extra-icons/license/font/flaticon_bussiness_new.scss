@@ -1,0 +1,129 @@
+$flaticon_bussiness_new-font: "flaticon_bussiness_new";
+
+@font-face {
+    font-family: $flaticon_bussiness_new-font;
+    src: url("./flaticon_bussiness_new.ttf?5cb031c968cb689c97381cb578dfd6ed") format("truetype"),
+url("./flaticon_bussiness_new.woff?5cb031c968cb689c97381cb578dfd6ed") format("woff"),
+url("./flaticon_bussiness_new.woff2?5cb031c968cb689c97381cb578dfd6ed") format("woff2"),
+url("./flaticon_bussiness_new.eot?5cb031c968cb689c97381cb578dfd6ed#iefix") format("embedded-opentype"),
+url("./flaticon_bussiness_new.svg?5cb031c968cb689c97381cb578dfd6ed#flaticon_bussiness_new") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bussiness_new !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bussiness_new-map: (
+    "profit": "\f101",
+    "cash-flow": "\f102",
+    "target": "\f103",
+    "statistics": "\f104",
+    "flexible": "\f105",
+    "email": "\f106",
+    "arrow-right": "\f107",
+    "profit-1": "\f108",
+    "brain": "\f109",
+    "cooperation": "\f10a",
+    "international-business": "\f10b",
+    "consultation": "\f10c",
+    "workflow": "\f10d",
+    "leadership": "\f10e",
+    "optimization": "\f10f",
+    "owner": "\f110",
+    "consultant": "\f111",
+    "handshake": "\f112",
+    "customer": "\f113",
+    "quote": "\f114",
+    "creative-cloud": "\f115",
+    "spring": "\f116",
+    "metaverse": "\f117",
+    "group": "\f118",
+    "intersection": "\f119",
+    "stars": "\f11a",
+);
+
+.flaticon-profit:before {
+    content: map-get($flaticon_bussiness_new-map, "profit");
+}
+.flaticon-cash-flow:before {
+    content: map-get($flaticon_bussiness_new-map, "cash-flow");
+}
+.flaticon-target:before {
+    content: map-get($flaticon_bussiness_new-map, "target");
+}
+.flaticon-statistics:before {
+    content: map-get($flaticon_bussiness_new-map, "statistics");
+}
+.flaticon-flexible:before {
+    content: map-get($flaticon_bussiness_new-map, "flexible");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_bussiness_new-map, "email");
+}
+.flaticon-arrow-right:before {
+    content: map-get($flaticon_bussiness_new-map, "arrow-right");
+}
+.flaticon-profit-1:before {
+    content: map-get($flaticon_bussiness_new-map, "profit-1");
+}
+.flaticon-brain:before {
+    content: map-get($flaticon_bussiness_new-map, "brain");
+}
+.flaticon-cooperation:before {
+    content: map-get($flaticon_bussiness_new-map, "cooperation");
+}
+.flaticon-international-business:before {
+    content: map-get($flaticon_bussiness_new-map, "international-business");
+}
+.flaticon-consultation:before {
+    content: map-get($flaticon_bussiness_new-map, "consultation");
+}
+.flaticon-workflow:before {
+    content: map-get($flaticon_bussiness_new-map, "workflow");
+}
+.flaticon-leadership:before {
+    content: map-get($flaticon_bussiness_new-map, "leadership");
+}
+.flaticon-optimization:before {
+    content: map-get($flaticon_bussiness_new-map, "optimization");
+}
+.flaticon-owner:before {
+    content: map-get($flaticon_bussiness_new-map, "owner");
+}
+.flaticon-consultant:before {
+    content: map-get($flaticon_bussiness_new-map, "consultant");
+}
+.flaticon-handshake:before {
+    content: map-get($flaticon_bussiness_new-map, "handshake");
+}
+.flaticon-customer:before {
+    content: map-get($flaticon_bussiness_new-map, "customer");
+}
+.flaticon-quote:before {
+    content: map-get($flaticon_bussiness_new-map, "quote");
+}
+.flaticon-creative-cloud:before {
+    content: map-get($flaticon_bussiness_new-map, "creative-cloud");
+}
+.flaticon-spring:before {
+    content: map-get($flaticon_bussiness_new-map, "spring");
+}
+.flaticon-metaverse:before {
+    content: map-get($flaticon_bussiness_new-map, "metaverse");
+}
+.flaticon-group:before {
+    content: map-get($flaticon_bussiness_new-map, "group");
+}
+.flaticon-intersection:before {
+    content: map-get($flaticon_bussiness_new-map, "intersection");
+}
+.flaticon-stars:before {
+    content: map-get($flaticon_bussiness_new-map, "stars");
+}
